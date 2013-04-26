@@ -19,6 +19,13 @@ develop-eggs
 lib
 lib64
 
+#compressions
+*.gz
+*.tar
+
+# dumps
+*.dmp
+
 #databases
 *.db
 *.sqlite
